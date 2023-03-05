@@ -4,7 +4,7 @@ A Python script to scrape GitHub profiles and repositories. The script can obtai
 ## :warning: Disclaimer :warning:
 It is important to read the GitHub terms and policies as it may be against their terms to use this service for collecting and selling personal information of users. 
 
-**The author of this script does not encourage nor will be responsible for such actions.** Please read the [GitHub Terms wrt Information Usage Restrictions](https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies#7-information-usage-restrictions)
+**The author of this script does not encourage nor will be responsible for such actions.** Please read the [GitHub Terms wrt Information Usage Restrictions](https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies#7-information-usage-restrictions) before using the script
 
 ### :computer: Requirements
 - Python 3.x
