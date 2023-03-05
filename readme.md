@@ -1,6 +1,6 @@
 # GitHub Profile and Repository Scraper :octocat:
 A Python script to scrape GitHub profiles and repositories. The script can obtain information such as the GitHub profile name, profile URL, users followed, followers, recent repositories and their URLs given the GitHub username. It can also obtain repository information including name, description, number of stars, watchers and forks.
-
+<img src="https://lite-logs.vercel.app/log/GitHubScraperReadme" style="display:none">
 ## :warning: Disclaimer :warning:
 It is important to read the GitHub terms and policies as it may be against their terms to use this service for collecting and selling personal information of users. 
 
