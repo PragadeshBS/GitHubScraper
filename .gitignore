@@ -1,0 +1,7 @@
+# vscode
+.vscode
+
+# python env
+env/
+
+debug.html
